@@ -1,0 +1,39 @@
+body{
+    margin: auto;
+    max-width: 1000px;
+    max-height: 1000px;
+}
+div{
+   width: 200px;
+   border: 2px solid black;
+   margin-top: 20px;
+}
+input{
+    outline: none;
+    width: 196px;
+}
+button{
+    width: 200px;
+    cursor: pointer;
+}
+button:hover{
+    background: rgb(206, 235, 245);
+}
+button:focus{
+    background: rgb(245, 199, 199)
+}
+#thirdButton{
+    width: 200px;
+}
+h1{
+    font-size: 15px;
+    font-weight: bold;
+    font-style: italic;
+}
+p{
+    margin: 5px;
+}
+#divSend{
+    border: none;
+    margin: 0;
+}
